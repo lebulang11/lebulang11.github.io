@@ -1,9 +1,4 @@
-#lebulang11.github.io
----
-layout: home
-title: 欢迎来到我的 GitHub 主页
-description: "个人项目展示与技术博客"
----
+
 
 # 你好，我是 [wls] 👋
 

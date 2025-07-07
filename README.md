@@ -15,15 +15,9 @@
 
 ## 📝 最新博客文章
 
-{% for post in site.posts limit:3 %}
-- [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%Y-%m-%d" }})
-{% endfor %}
-
-[查看更多文章...](/blog)
-
 ---
 
-## 🔧 技术栈
+## 🔧 技术栈 unreal
 
 - **语言**: JavaScript, Python, Java
 - **前端**: React, Vue, HTML/CSS
@@ -34,7 +28,7 @@
 
 ## 📫 联系我
 
-- GitHub: [@你的用户名](https://github.com/lebulang11)
+- GitHub: [@lebulang11](https://github.com/lebulang11)
 - 邮箱: 2937941726@qq.com
 
 ---
